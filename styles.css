@@ -27,9 +27,6 @@ ul{
     font-size: 8pt;
     padding: 0px 0px 0px 0px;
 }
-li {
-    text-decoration: none;
-}
 body {
     background-color: rgba(252, 239, 176, 0.993);
     width: 600px;
